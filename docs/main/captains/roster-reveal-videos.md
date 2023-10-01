@@ -35,3 +35,5 @@ We recommend using the following software:
 You are free to use any software you like, but these are the ones we recommend.
 
 You are also free to use your team's shared Google Drive. If you don't have one yet, you can create one by asking management to create one for you.
+
+Keep in mind that any video you submit to management will be immediately dedicated to the public domain. This means that anyone can use it for any purpose, including commercial purposes.
