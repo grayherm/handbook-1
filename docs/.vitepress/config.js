@@ -78,5 +78,11 @@ export default defineConfig({
         timeStyle: "full",
       },
     },
+
+    footer: {
+      message:
+        "Released under the <a href='https://github.com/UnnamedEsports/handbook/blob/main/LICENSE' target='_blank'>Unlicense</a>.",
+      copyright: "Dedicated to the Public Domain.",
+    },
   },
 });
