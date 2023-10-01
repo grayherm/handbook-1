@@ -67,6 +67,10 @@ export default defineConfig({
       { icon: "twitter", link: "https://twitter.com/UnnamedEsportsX" },
     ],
 
+    search: {
+      provider: "local",
+    },
+
     editLink: {
       pattern: "https://github.com/UnnamedEsports/website/edit/main/docs/:path",
       text: "Edit this page on GitHub",
