@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Unnamed Esports Handbook",
   description: "Everything we do, compressed.",
+  head: [["link", { rel: "icon", href: "/ezgif-2-cdb5be30fc.gif" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config#
     logo: "/ezgif-2-cdb5be30fc.gif",
