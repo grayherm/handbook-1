@@ -7,7 +7,7 @@ hero:
   text: "Official Handbook"
   tagline: "Everything we do, compressed. ✨"
   image:
-    src: /assets/ezgif-2-cdb5be30fc.gif
+    src: /ezgif-2-cdb5be30fc.gif
     alt: Unnamed Esports Logo
   actions:
     - theme: brand

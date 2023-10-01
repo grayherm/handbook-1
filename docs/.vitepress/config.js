@@ -6,7 +6,7 @@ export default defineConfig({
   description: "Everything we do, compressed.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config#
-    logo: "/assets/ezgif-2-cdb5be30fc.gif",
+    logo: "/ezgif-2-cdb5be30fc.gif",
 
     nav: [
       { text: "Home", link: "/" },
