@@ -65,5 +65,18 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/UnnamedEsports/handbook" },
       { icon: "twitter", link: "https://twitter.com/UnnamedEsportsX" },
     ],
+
+    editLink: {
+      pattern: "https://github.com/UnnamedEsports/website/edit/main/docs/:path",
+      text: "Edit this page on GitHub",
+    },
+
+    lastUpdated: {
+      text: "Updated at",
+      formatOptions: {
+        dateStyle: "full",
+        timeStyle: "full",
+      },
+    },
   },
 });
