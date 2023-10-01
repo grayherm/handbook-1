@@ -10,7 +10,7 @@ export default defineConfig({
 
     nav: [
       { text: "Home", link: "/" },
-      { text: "Team", link: "/team" },
+      { text: "Contributors", link: "/contributors" },
       // {
       //   text: "Guides",
       //   items: [{ text: "Item A", link: "/guides/item-1" }],

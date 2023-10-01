@@ -14,8 +14,10 @@ const members = [
 ]
 </script>
 
-# Our Team
+# Our Contributors
 
-Say hello to our awesome team.
+Say hello to our amazing contributors! 👋
+
+Without them, this handbook would not be possible.
 
 <VPTeamMembers size="small" :members="members" />
