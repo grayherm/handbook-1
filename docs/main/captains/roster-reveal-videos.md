@@ -38,4 +38,6 @@ You are also free to use your team's shared Google Drive. If you don't have one 
 
 Keep in mind that any video you submit to management will be immediately dedicated to the public domain. This means that anyone can use it for any purpose, including commercial purposes.
 
+Additionally, any videos created must be 1080p including player clips at minimum. 2k and 4k are perfect as well :). 
+
 Once you've finished editing your video, you can submit it to management by simply sending them a link to the video file on the team's shared Google Drive.
